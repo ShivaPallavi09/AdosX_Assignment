@@ -13,3 +13,12 @@
    python manage.py migrate
    python manage.py import_data
    python manage.py runserver
+
+2. ""Setup the frontend:**
+   ```bash
+   # Open a new terminal
+   cd frontend
+   npm install
+
+   # Launch the frontend server
+   npm run dev
